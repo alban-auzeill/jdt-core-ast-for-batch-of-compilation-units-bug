@@ -1,1 +1,2 @@
-# jdt-core bug reproducer in create ast for batch of compilation units
+# Reproduce a bug in jdt-core when parsing a batch of compilation units
+
