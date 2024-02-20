@@ -1,6 +1,7 @@
 package org.example;
 
 public class B {
-  void method(Module2 referenceToModule2) {
+  void method() {
+    new Module2();
   }
 }
