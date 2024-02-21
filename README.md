@@ -1,5 +1,7 @@
 # Reproduce a bug in jdt-core when parsing a batch of compilation units
 
+Reproduce the [eclipse-jdt/eclipse.jdt.core issues/2050](https://github.com/eclipse-jdt/eclipse.jdt.core/issues/2050)
+
 ## Goal
 
 Parsing a batch of 3 java files, `A.java`, `B.java`, `C.java`, using ASTParser.createASTs() method with a classpath
